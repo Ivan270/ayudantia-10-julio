@@ -13,7 +13,21 @@
 >- Usar v-show para mostrar u ocultar la figura
 
 
+## Consideraciones para la instalación y ejecución del proyecto
+## Setup del proyecto e instalación de dependencias
+```
+npm install
+```
 
+### Compilación para desarrollo
+```
+npm run serve
+```
+
+### Compilación y minifación para producción
+```
+npm run build
+```
 
 
 ### Documentación:
